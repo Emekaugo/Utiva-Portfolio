@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Intern Frontend Developer",
+    "organisation": "Seamfix",
+    "startDate": "Jan, 2018",
+    "endDate": "Jun, 2018",
+    "experiences": ["Worked on Google Maps", "Modified their websites to be responsive"],
+    "imageSrc": "history/seamfix.jpeg"
+  },
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "Systemspecs",
+    "startDate": "Mar, 2021",
+    "endDate": "Mar, 2023",
+    "experiences": ["Built an entire website for the Office", "Worked with their API's", "Made their websites responsive"],
+    "imageSrc": "history/systemspecs.jpeg"
+  }
+
+]
