@@ -4,7 +4,7 @@
     "imageSrc": "projects/bookstore-project.png",
     "description": "This is a beginner-friendly project to understand the CRUD operations in Node.js and this project serves as an easy-to-understand guide to used the CRUD operations.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://65df21d3a4d43e0dafa3784e--zippy-biscuit-ea67e7.netlify.app",
     "source": "https://github.com/Emekaugo/bookstore-Mern-Stack"
   },
   {
@@ -12,7 +12,7 @@
     "imageSrc": "projects/blog-project.png",
     "description": "I designed the code architecture for this Blog website and built it from ground up using React Framework.This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "MongoDB", "Mongoose"],
-    "demo": "https://www.example.com",
+    "demo": "https://65ea03abe926584a1763f941--superb-pegasus-c66f7a.netlify.app",
     "source": "https://github.com/Emekaugo/Utiva-Blogsite"
   },
   {
@@ -20,7 +20,7 @@
     "imageSrc": "projects/portfolio-project.png",
     "description": "This is a Utiva assignment for full-stack developers on building a simple portfolio site. This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Emekaugo/Utiva-Blogsite"
+    "demo": "/",
+    "source": "https://github.com/Emekaugo/Utiva-Portfolio"
   }
 ]
